@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluelanm" alt="bluelanm" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/jason__wang_" target="blank"><img src="https://img.shields.io/twitter/follow/jason__wang_?logo=twitter&style=for-the-badge" alt="jason__wang_" /></a> </p>
+
 - 📝 I regularly write articles on [https://lanm.netlify.app/](https://lanm.netlify.app/)
 
 - 💬 Ask me about **react**
