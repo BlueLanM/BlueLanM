@@ -1,5 +1,5 @@
 <h1 align="center">嗨👋，我是LanM</h1>
-<h3 align="center">来自中国的热情前端开发者</h3>
+<h3 align="center">前端开发者</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=bluelanm&label=Profile%20views&color=0e75b6&style=flat" alt="bluelanm" /> </p>
 
