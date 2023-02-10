@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm LanM</h1>
 <h3 align="center">前端开发者</h3>
 
+<a href="https://github.com/BlueLanM">
+  <img src="https://metrics.lecoq.io/BlueLanM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluelanm&label=Profile%20views&color=0e75b6&style=flat" alt="bluelanm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bluelanm" alt="bluelanm" /></a> </p>
