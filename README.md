@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jason__wang_" target="blank"><img src="https://img.shields.io/twitter /关注/jason__wang_?logo=twitter&style=for-the-badge" alt="jason__wang_" /></a> </p>
 
-- 📝 我经常在 [https://www.lanm.love/](https://www.lanm .love/)
+- 📝 我经常在 [https://www.lanm.love/](https://www.lanm.love/)
 
 - 💬 问我关于 **react, javaScript**
 
