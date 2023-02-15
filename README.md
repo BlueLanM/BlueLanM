@@ -1,76 +1,30 @@
+<h1 align="center">Hi 👋, I'm LanM</h1>
+<h3 align="center">前端开发者</h3>
 
-<a href="https://github.com/pulls?q=author%3Akuizuo">
-2
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluelanm&label=Profile%20views&color=0e75b6&style=flat" alt="bluelanm" /> 
+ 
+</p>
+<a href="https://github.com/pulls?q=author%3ABlueLanM">
   <picture>
-3
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=kuizuo&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-4
-    <img alt="Shows 愧怍's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=kuizuo&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
-5
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=BlueLanM&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows LanM's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=BlueLanM&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
-6
 </a>
-7
-​
-8
-### 👋 Hi there, I'm Kuizuo. 
-9
-​
-10
-- 🧑 Student from China
-11
-- 👨‍💻 Code enthusiast
-12
-- 🌱 Keep learning, hoping to learn unlimited possibilities in a limited time.
-13
-​
-14
-<a href="https://github.com/kuizuo">
-15
-  <img align="right" src="https://metrics.lecoq.io/kuizuo?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
-16
-</a>
-17
-​
-18
-​
-19
-### 🛠 Tech Stack
-20
-​
-21
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-22
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-23
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-24
-![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-25
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-26
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-27
-![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs&logoColor=ea2845)
-28
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MTAiIGhlaWdodD0iNDA0IiB2aWV3Qm94PSIwIDAgNDEwIDQwNCIgZmlsbD0ibm9uZSI+CjxwYXRoIGQ9Ik0zOTkuNjQxIDU5LjUyNDZMMjE1LjY0MyAzODguNTQ1QzIxMS44NDQgMzk1LjMzOCAyMDIuMDg0IDM5NS4zNzggMTk4LjIyOCAzODguNjE4TDEwLjU4MTcgNTkuNTU2M0M2LjM4MDg3IDUyLjE4OTYgMTIuNjgwMiA0My4yNjY1IDIxLjAyODEgNDQuNzU4NkwyMDUuMjIzIDc3LjY4MjRDMjA2LjM5OCA3Ny44OTI0IDIwNy42MDEgNzcuODkwNCAyMDguNzc2IDc3LjY3NjNMMzg5LjExOSA0NC44MDU4QzM5Ny40MzkgNDMuMjg5NCA0MDMuNzY4IDUyLjE0MzQgMzk5LjY0MSA1OS41MjQ2WiIgZmlsbD0idXJsKCNwYWludDBfbGluZWFyKSIvPgo8cGF0aCBkPSJNMjkyLjk2NSAxLjU3NDRMMTU2LjgwMSAyOC4yNTUyQzE1NC41NjMgMjguNjkzNyAxNTIuOTA2IDMwLjU5MDMgMTUyLjc3MSAzMi44NjY0TDE0NC4zOTUgMTc0LjMzQzE0NC4xOTggMTc3LjY2MiAxNDcuMjU4IDE4MC4yNDggMTUwLjUxIDE3OS40OThMMTg4LjQyIDE3MC43NDlDMTkxLjk2NyAxNjkuOTMxIDE5NS4xNzIgMTczLjA1NSAxOTQuNDQzIDE3Ni42MjJMMTgzLjE4IDIzMS43NzVDMTgyLjQyMiAyMzUuNDg3IDE4NS45MDcgMjM4LjY2MSAxODkuNTMyIDIzNy41NkwyMTIuOTQ3IDIzMC40NDZDMjE2LjU3NyAyMjkuMzQ0IDIyMC4wNjUgMjMyLjUyNyAyMTkuMjk3IDIzNi4yNDJMMjAxLjM5OCAzMjIuODc1QzIwMC4yNzggMzI4LjI5NCAyMDcuNDg2IDMzMS4yNDkgMjEwLjQ5MiAzMjYuNjAzTDIxMi41IDMyMy41TDMyMy40NTQgMTAyLjA3MkMzMjUuMzEyIDk4LjM2NDUgMzIyLjEwOCA5NC4xMzcgMzE4LjAzNiA5NC45MjI4TDI3OS4wMTQgMTAyLjQ1NEMyNzUuMzQ3IDEwMy4xNjEgMjcyLjIyNyA5OS43NDYgMjczLjI2MiA5Ni4xNTgzTDI5OC43MzEgNy44NjY4OUMyOTkuNzY3IDQuMjczMTQgMjk2LjYzNiAwLjg1NTE4MSAyOTIuOTY1IDEuNTc0NFoiIGZpbGw9InVybCgjcGFpbnQxX2xpbmVhcikiLz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhciIgeDE9IjYuMDAwMTciIHkxPSIzMi45OTk5IiB4Mj0iMjM1IiB5Mj0iMzQ0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiM0MUQxRkYiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjQkQzNEZFIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQxX2xpbmVhciIgeDE9IjE5NC42NTEiIHkxPSI4LjgxODE4IiB4Mj0iMjM2LjA3NiIgeTI9IjI5Mi45ODkiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KPHN0b3Agc3RvcC1jb2xvcj0iI0ZGRUE4MyIvPgo8c3RvcCBvZmZzZXQ9IjAuMDgzMzMzMyIgc3RvcC1jb2xvcj0iI0ZGREQzNSIvPgo8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGRkE4MDAiLz4KPC9saW5lYXJHcmFkaWVudD4KPC9kZWZzPgo8L3N2Zz4=)
-29
-![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=data:image/png;base64,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)
-30
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-31
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-32
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-33
-​
-34
-​
-35
-#### ☎️ Find me
-36
-​
-37
-- <img src="./icons/mail.svg"> [Email](mailto:hi@kuizuo.cn)
-38
-- <img src="./icons/twitter.svg"> [Twitter](https://twitter.com/kuizuo)
+
+- 📝 I regularly write articles on [https://www.lanm.love/](https://www.lanm.love/)
+- 💬 Ask me about **react, javaScript**
+- 📫 How to reach me **w2351406802@163.com**
+
+<a href="https://github.com/BlueLanM">
+  <img src="https://metrics.lecoq.io/BlueLanM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
+</a> 
+
+### Languages and Tools:
+  
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://twitter.com/jason__wang_" target="blank"><img src="https://img.shields.io/twitter/follow/jason__wang_?logo=twitter&style=for-the-badge" alt="jason__wang_" /></a></p>
+
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jason__wang_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jason__wang_" height="30" width="40" /></a>
+</p> -->
