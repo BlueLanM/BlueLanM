@@ -1,25 +1,22 @@
-<h1 align="center">Hi 👋, I'm LanM</h1>
-<h3 align="center">前端开发</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluelanm&label=Profile%20views&color=0e75b6&style=flat" alt="bluelanm" /> 
-</p>
 <a href="https://github.com/pulls?q=author%3ABlueLanM">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.liuli.lol/api?username=BlueLanM&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true">
-    <img alt="Shows LanM's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=BlueLanM&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="Shows 蓝莓's GitHub Stats." align="right" width="480px" src="https://github-stats.liuli.lol/api?username=BlueLanM&theme=vue&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
-  
+<h1 align="center">Hi 👋, I'm LanM</h1>
+<h3 align="center">前端开发</h3>
+
 - 📝 I regularly write articles on [https://www.lanm.love/](https://www.lanm.love/)
-
 - 💬 Ask me about **react, javaScript**
-
 - 📫 How to reach me **w2351406802@163.com**
-  
+
 <a href="https://github.com/BlueLanM">
-  <img src="https://metrics.lecoq.io/BlueLanM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
-</a> 
-  
+  <img align="right" src="https://metrics.lecoq.io/BlueLanM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai">
+</a>
+
+
 ### 🛠 技术栈
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-7d5826?style=flat&logo=javascript)
@@ -32,7 +29,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
 ![Miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-![HTTP](https://img.shields.io/badge/-HTTP-333333?style=flat&logo=http)
+
 
  
 
