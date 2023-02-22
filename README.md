@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LanM</h1>
-<h3 align="center">前端开发者</h3>
+<h3 align="center">前端开发</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluelanm&label=Profile%20views&color=0e75b6&style=flat" alt="bluelanm" /> 
 </p>
 <a href="https://github.com/pulls?q=author%3ABlueLanM">
@@ -9,11 +9,16 @@
   </picture>
 </a>
 
+<a>
+  
 - 📝 I regularly write articles on [https://www.lanm.love/](https://www.lanm.love/)
 
 - 💬 Ask me about **react, javaScript**
 
 - 📫 How to reach me **w2351406802@163.com**
+  
+  
+</a>
 
 <a href="https://github.com/BlueLanM">
   <img src="https://metrics.lecoq.io/BlueLanM?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai" />
