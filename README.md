@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm LanM</h1>
-<h3 align="center"><a href="https://lanm.love"><img src="https://readme-typing-svg.herokuapp.com/?lines=React;前端开发!&center=true&size=27"> </a> </h3>
+<h3 align="center"><a href="https://lanm.love"><img src="https://readme-typing-svg.herokuapp.com/?lines=呱呱呱!;前端开发!&center=true&size=27"> </a> </h3>
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=BlueLanM" /> </div>
 <div align='center'>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
