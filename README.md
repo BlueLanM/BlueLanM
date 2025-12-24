@@ -13,27 +13,28 @@
 </div>
 
 <p align="center">
-<img
-  src="https://ghchart.rshah.org/409ba5/BlueLanM"
-  alt="BlueLanM's Blue Github chart"
-  loading="lazy"
-/>
+  
+</p>
 
-<img 
-  src="https://metrics.lecoq.io/BlueLanM?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai"
-  alt="BlueLanM's Github"
-  loading="lazy"
-/>
-
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/409ba5/BlueLanM"
+    alt="BlueLanM's Blue Github chart"
+    loading="lazy"
+  />
+  <img 
+    src="https://metrics.lecoq.io/BlueLanM?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai"
+    alt="BlueLanM's Github"
+    loading="lazy"
+  />
+  
 ![LanM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueLanM&bg_color=ffffff)
 
-</p>
- 
 |![](https://visitor-badge.glitch.me/badge?page_id=BlueLanM) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
 |-|-|-|
-
 |![](https://github-readme-streak-stats.herokuapp.com/?user=BlueLanM&&theme=dark)|![](https://github-profile-trophy.vercel.app/?username=BlueLanM&&theme=onedark)|
-|-|-|
+</p>
+
 
 
 
