@@ -30,7 +30,7 @@
   
 ![LanM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueLanM&bg_color=ffffff)
 
-|![](https://visitor-badge.glitch.me/badge?page_id=BlueLanM) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
+|![](https://stats.justsong.cn/api/github?username=BlueLanM) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
 |-|-|-|
 |![](https://github-readme-streak-stats.herokuapp.com/?user=BlueLanM&&theme=dark)|![](https://github-profile-trophy.vercel.app/?username=BlueLanM&&theme=onedark)|
 </p>
