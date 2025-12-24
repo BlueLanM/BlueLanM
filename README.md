@@ -23,7 +23,7 @@
 
 </p>
  
-|![Metrics](https://metrics.lecoq.io/BlueLanM?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
+|![](https://visitor-badge.glitch.me/badge?page_id=BlueLanM) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
 |-|-|-|
 
 |![](https://github-readme-streak-stats.herokuapp.com/?user=BlueLanM&&theme=dark)|![](https://github-profile-trophy.vercel.app/?username=BlueLanM&&theme=onedark)|
