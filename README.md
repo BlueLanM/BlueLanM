@@ -31,7 +31,7 @@
   <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </p>
 
-<p align="center"></p>
+<p align="center">
   <img src="https://metrics.lecoq.io/BlueLanM?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai" alt="BlueLanM's Github Metrics" loading="lazy" />
 </p>
 
