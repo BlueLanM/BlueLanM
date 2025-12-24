@@ -21,7 +21,7 @@
 
 </p>
  
-|![](https://github-readme-stats.vercel.app/api?username=BlueLanM&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)  |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
+|![LanM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueLanM&bg_color=ffffff) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
 |-|-|-|
 
 |![](https://github-readme-streak-stats.herokuapp.com/?user=BlueLanM&&theme=dark)|![](https://github-profile-trophy.vercel.app/?username=BlueLanM&&theme=onedark)|
