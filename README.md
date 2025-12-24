@@ -12,9 +12,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 </div>
 
-<p align="center">
-  
-</p>
+![](https://raw.githubusercontent.com/BlueLanM/BlueLanM/refs/heads/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img
@@ -22,6 +20,7 @@
     alt="BlueLanM's Blue Github chart"
     loading="lazy"
   />
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
   <img 
     src="https://metrics.lecoq.io/BlueLanM?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai"
     alt="BlueLanM's Github"
@@ -30,7 +29,9 @@
   
 ![LanM's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueLanM&bg_color=ffffff)
 
-|![](https://stats.justsong.cn/api/github?username=BlueLanM) |![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+|![](https://github-readme-stats.vercel.app/api?username=BlueLanM&show_icons)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10)|![](https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark)|
 |-|-|-|
 |![](https://github-readme-streak-stats.herokuapp.com/?user=BlueLanM&&theme=dark)|![](https://github-profile-trophy.vercel.app/?username=BlueLanM&&theme=onedark)|
 </p>
