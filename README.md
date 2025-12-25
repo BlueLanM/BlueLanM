@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://lanm.love">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;技术栈:React,Typescript,Node;开源爱好者&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;技术栈:React,Vue,Typescript,NodeJs;开源爱好者&center=true&size=27">
   </a>
 </h3>
 
@@ -80,5 +80,9 @@
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
