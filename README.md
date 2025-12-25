@@ -101,7 +101,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BlueLanM/BlueLanM/refs/heads/output/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/BlueLanM/BlueLanM/main/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 
