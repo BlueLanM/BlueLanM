@@ -17,6 +17,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+---
+
+<!-- YEAR_PROGRESS starts -->
+⏳ Year progress { █████████████████████████████▁ } 98.12 %
+
+⏰ Updated on Thu, 25 Dec 2025 03:32:46 GMT
+<!-- YEAR_PROGRESS ends -->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/BlueLanM/BlueLanM/refs/heads/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
@@ -55,11 +63,4 @@
   </table>
 </div>
 
----
-
-<!-- YEAR_PROGRESS starts -->
-⏳ Year progress { █████████████████████████████▁ } 98.12 %
-
-⏰ Updated on Thu, 25 Dec 2025 03:32:46 GMT
-<!-- YEAR_PROGRESS ends -->
 
