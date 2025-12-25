@@ -1,23 +1,39 @@
 <h1 align="center">LanM</h1>
 
+<p align="center">
+  <!-- visitor -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=BlueLanM&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+</p>
+
 <h3 align="center">
   <a href="https://lanm.love">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;技术栈:React,Typescript,Node;开源爱好者&center=true&size=27">
   </a>
 </h3>
 
+<div align="center">
+  <a href="https://twitter.com/Jason__Wang_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+
+</div>
+
+<p align="center">
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/-Vue-216e39?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/vite-orange?style=for-the-badge&logo=vite" />
   <img src="https://img.shields.io/badge/-React-0078D4?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/-Node-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/-Miniprogram-068906?style=for-the-badge&logo=wechat" />
-  <img src="https://img.shields.io/badge/VSCode-23AAF2?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-23AAF2?style=for-the-badge&logo=V&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+</p>
 
 <!-- YEAR_PROGRESS starts -->
 ⏳ Year progress { █████████████████████████████▁ } 98.12 %
@@ -46,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueLanM&bg_color=ffffff" alt="LanM's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BlueLanM&theme=dracula" alt="LanM's GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -58,6 +74,7 @@
 <div align="center">
   <table>
     <tr>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=BlueLanM" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" /></td>
       <td><img src="https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark" alt="CSDN Stats" /></td>
     </tr>
