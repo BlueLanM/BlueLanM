@@ -13,7 +13,7 @@
   <a href="https://space.bilibili.com/347207525/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?logo=bilibili&logoColor=ff69b4" /></a>&emsp;
   <a href="https://steamcommunity.com/profiles/76561198892079974/"><img src="https://img.shields.io/badge/steam-steam-black?logo=Steam" /></a>&emsp;
   <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <img src="https://komarev.com/ghpvc/?username=BlueLanM&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
 
 <p align="center">
@@ -101,7 +101,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <img src="https://raw.githubusercontent.com/BlueLanM/BlueLanM/refs/heads/output/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
 
