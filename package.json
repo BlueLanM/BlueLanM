@@ -1,0 +1,17 @@
+{
+  "name": "bluelanm",
+  "version": "1.0.0",
+  "description": "BlueLanM GitHub",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "progress"
+  ],
+  "author": "BlueLanM",
+  "license": "MIT"
+}

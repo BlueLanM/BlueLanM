@@ -52,9 +52,14 @@
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" /></td>
       <td><img src="https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark" alt="CSDN Stats" /></td>
     </tr>
-    <tr>
-      <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueLanM&theme=dark" alt="GitHub Streak" /></td>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=BlueLanM&theme=onedark" alt="GitHub Trophy" /></td>
-    </tr>
   </table>
 </div>
+
+---
+
+<!-- YEAR_PROGRESS starts -->
+⏳ Year progress { █████████████████████████████▁ } 98.12 %
+
+⏰ Updated on Thu, 25 Dec 2025 03:32:46 GMT
+<!-- YEAR_PROGRESS ends -->
+
