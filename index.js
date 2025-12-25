@@ -6,8 +6,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const thisYear = new Date().getFullYear();
-const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime();
-const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime();
+// 使用北京时间 (UTC+8)
+const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+08:00`).getTime();
+const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+08:00`).getTime();
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear);
 const progressBarOfThisYear = generateProgressBar();
 
@@ -22,7 +23,7 @@ function generateProgressBar() {
 
 const progressContent = `⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-⏰ Updated on ${new Date().toUTCString()}`;
+⏰ Updated on ${new Date().toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" })}`;
 
 // 读取 README.md 文件
 const readmePath = path.join(__dirname, "README.md");
