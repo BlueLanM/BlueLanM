@@ -7,10 +7,11 @@
 </h3>
 
 <div align="center">
-  <a href="https://x.com/Jason__Wang_"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  <a href="https://www.youtube.com/@jasonw1712"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-  <a href="https://bluelanm.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-  <a href="https://space.bilibili.com/347207525/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://x.com/Jason__Wang_"><img src="https://img.shields.io/badge/Twitter-推特-blue?logo=X" /></a>&emsp;
+  <a href="https://www.youtube.com/@jasonw1712"><img src="https://img.shields.io/badge/YouTube-油管-c32136?logo=Youtube&logoColor=c32136" /></a>&emsp;
+  <a href="https://bluelanm.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db?logo=bloglovin&logoColor=8c36db" /></a>&emsp;
+  <a href="https://space.bilibili.com/347207525/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?logo=bilibili&logoColor=ff69b4" /></a>&emsp;
+  <a href="https://steamcommunity.com/profiles/76561198892079974/"><img src="https://img.shields.io/badge/steam-steam-black?logo=Steam" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
