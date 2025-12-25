@@ -6,14 +6,13 @@
   </a>
 </h3>
 
-<p align="center">
-  <!-- visitor -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=BlueLanM&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-</p>
-
 <div align="center">
-  <a href="https://twitter.com/Jason__Wang_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-
+  <a href="https://x.com/Jason__Wang_"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+  <a href="https://www.youtube.com/@jasonw1712"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+  <a href="https://bluelanm.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href="https://space.bilibili.com/347207525/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
 
 <p align="center">
@@ -74,7 +73,6 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=BlueLanM" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" /></td>
       <td><img src="https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark" alt="CSDN Stats" /></td>
     </tr>
