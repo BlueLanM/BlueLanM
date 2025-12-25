@@ -1,8 +1,8 @@
 <h1 align="center">LanM</h1>
 
 <h3 align="center">
-  <a href="https://lanm.love">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;技术栈:React,Vue,Typescript,NodeJs;开源爱好者&center=true&size=27">
+  <a href="https://bluelanm.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;技术栈:React,Vue,Typescript,NodeJs;开源爱好者&center=true&size=23">
   </a>
 </h3>
 
@@ -21,14 +21,34 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/-Vue-216e39?style=for-the-badge&logo=vue.js" />
-  <img src="https://img.shields.io/badge/vite-orange?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/-React-0078D4?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Node-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Miniprogram-068906?style=for-the-badge&logo=wechat" />
-  <img src="https://img.shields.io/badge/VSCode-23AAF2?style=for-the-badge&logo=V&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+  ![VScode Badge](https://img.shields.io/badge/VSCode-23AAF2?style=for-the-badge&logo=V&logoColor=white)
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+  ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+  ![Vue Badge](https://img.shields.io/badge/-Vue.js-216e39?style=for-the-badge&logo=vue.js)
+  ![Wechat Badge](https://img.shields.io/badge/-Miniprogram-068906?style=for-the-badge&logo=wechat)
+  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+  ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
+  ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)
+  ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)
+  ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=for-the-badge)
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+  <img src="https://skillicons.dev/icons?i=ps,pr,css,react,vue,ts,mongodb,mysql,vercel,vscode,git" /><br>
+  
+  <!-- svg -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /> 
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 </div>
 
 <p align="center">
