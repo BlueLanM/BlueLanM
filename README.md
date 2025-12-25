@@ -25,6 +25,8 @@
 ⏰ Updated on Thu, 25 Dec 2025 03:32:46 GMT
 <!-- YEAR_PROGRESS ends -->
 
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/BlueLanM/BlueLanM/refs/heads/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
