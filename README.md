@@ -1,15 +1,15 @@
 <h1 align="center">LanM</h1>
 
-<p align="center">
-  <!-- visitor -->
-  <img align="center" src="https://komarev.com/ghpvc/?username=BlueLanM&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-</p>
-
 <h3 align="center">
   <a href="https://lanm.love">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer;技术栈:React,Typescript,Node;开源爱好者&center=true&size=27">
   </a>
 </h3>
+
+<p align="center">
+  <!-- visitor -->
+  <img align="center" src="https://komarev.com/ghpvc/?username=BlueLanM&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+</p>
 
 <div align="center">
   <a href="https://twitter.com/Jason__Wang_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
