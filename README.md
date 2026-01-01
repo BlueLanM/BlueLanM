@@ -56,9 +56,9 @@
 </p>
 
 <!-- YEAR_PROGRESS starts -->
-⏳ Year progress { ██████████████████████████████ } 100.03 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 0.11 %
 
-⏰ Updated on 2026/1/1 02:23:51
+⏰ Updated on 2026/1/1 09:25:05
 <!-- YEAR_PROGRESS ends -->
 
 ---
