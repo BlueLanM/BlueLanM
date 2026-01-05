@@ -94,7 +94,6 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueLanM&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" /></td>
       <td><img src="https://stats.justsong.cn/api/csdn/?id=BLUESKYwang66&theme=dark" alt="CSDN Stats" /></td>
     </tr>
   </table>
